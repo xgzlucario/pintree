@@ -136,6 +136,41 @@
             "url": "https://kimi.moonshot.cn/"
           }
         ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1727281930671,
+        "title": "Blog",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1727281938440,
+            "title": "lixueduan.com",
+            "icon": "https://logo.clearbit.com/www.lixueduan.com",
+            "url": "https://www.lixueduan.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727281956218,
+            "title": "王帅真的个人博客，分享编程与思维认知",
+            "icon": "https://logo.clearbit.com/blog.qizong007.top",
+            "url": "https://blog.qizong007.top/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727282083286,
+            "title": "Lucario 的道馆",
+            "icon": "https://logo.clearbit.com/lucario.cn",
+            "url": "https://lucario.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727282102829,
+            "title": "木鸟杂记 - 分布式系统，数据库，存储",
+            "icon": "https://logo.clearbit.com/www.qtmuniao.com",
+            "url": "https://www.qtmuniao.com/"
+          }
+        ]
       }
     ]
   }
